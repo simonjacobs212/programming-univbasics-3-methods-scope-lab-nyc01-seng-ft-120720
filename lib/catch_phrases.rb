@@ -17,7 +17,7 @@ def link
 end
 
 def all_phrases
-  puts $phrase
-  puts $status
-  puts $warning
+  mario
+  toadstool
+  link
 end
